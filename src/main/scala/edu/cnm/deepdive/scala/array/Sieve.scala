@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.scala
+package edu.cnm.deepdive.scala.array
 
 import scala.annotation.tailrec
 import scala.collection.mutable
